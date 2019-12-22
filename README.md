@@ -1,2 +1,3 @@
-# PracticeWithGit
-Trying to work out how this works
+# Sandbox
+
+Using Github pages to check responsive bootstrap classes on smartphone
